@@ -1,6 +1,6 @@
 <html1>
 <body>
-<form action="/action_page.php" method='get'>
+<form action="/action_page.php" method="get">
   <label for="username">Username:</label><br>
   <input type="text" id="username" name="username"><br>
   <label for="pwd">Password:</label><br>
